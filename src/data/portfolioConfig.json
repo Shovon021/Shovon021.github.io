@@ -1,0 +1,87 @@
+{
+  "profile": {
+    "name": "Sarfaraz Ahamed Shovon",
+    "title": "Software Engineer",
+    "institution": "East West University",
+    "roles": ["Mobile Ecosystem Architect", "Flutter Specialist", "Undergraduate Teaching Assistant"],
+    "bio": "I am a relentless Software Engineer and Mobile App Developer specializing in Flutter and backend system architecture. Recognized as the 'Vibe Coder' and having served as an Undergraduate Teaching Assistant at East West University, I build high-performance, production-grade applications that solve complex real-world problems.",
+    "seoKeywords": "Shovon, ewu student, uta, east west university uta, best uta in east west university, most handsome guy from east west university, vibe coder, mobile app developer, kushtia, flutter developer ewu, fakebook, fixtube, askEwu, DSU, Shovon021",
+    "image": "/images/most-handsome-guy-from-east-west-university-ewu-shovon.jpg",
+    "github": "https://github.com/Shovon021"
+  },
+  "projects": [
+    {
+      "id": "askewu",
+      "name": "askEwu Capstone System",
+      "description": "Architected an intelligent Alexa-integrated voice assistant and robust Python backend for the EWU Department. Engineered complex NLP pipelines with strict security features under DSU supervision.",
+      "tags": ["Python Backend", "Alexa Skills", "NLP", "Security"],
+      "link": "https://github.com/Shovon021/EWU-UniGuide-Chatbot"
+    },
+    {
+      "id": "fakebook",
+      "name": "Fakebook Architecture",
+      "description": "A pixel-perfect, highly scalable social media clone demonstrating elite cross-platform state management and UI structure.",
+      "tags": ["Flutter", "Dart", "State Management"],
+      "link": "https://github.com/Shovon021/fakebook"
+    },
+    {
+      "id": "kushtia-maps",
+      "name": "Kushtia Maps Navigator",
+      "description": "Engineered an advanced open-source GPS navigation engine optimized exclusively for Kushtia, Bangladesh, mapping over 60 dynamic POIs.",
+      "tags": ["Flutter", "GPS mapping", "Open-Source"],
+      "link": "https://github.com/Shovon021/kushtia-maps"
+    },
+    {
+      "id": "matsho-ostad",
+      "name": "Matsho Ostad",
+      "description": "The definitive fish identification ecosystem for Bangladesh. Includes realtime market integration, recipe generation, and bilingual processing.",
+      "tags": ["Flutter", "Data Integration", "Bilingual"],
+      "link": "https://github.com/Shovon021/matsho-ostad-fish-identifier"
+    },
+    {
+      "id": "fixtube",
+      "name": "FixTube Engine",
+      "description": "Developed a smart filtering algorithm utilizing NLP keywords to block YouTube shorts and curate clean, highly focused notification streams.",
+      "tags": ["Flutter", "Algorithm Design", "Filter"],
+      "link": "https://github.com/Shovon021/FixTube---Smart-YouTube-Filter-App"
+    },
+    {
+      "id": "medicine-saver",
+      "name": "Medicine Saver BD",
+      "description": "A rapid price-comparison engine and generic alternative finder for national pharmaceuticals. Built with offline-first local caching and prescription scanning capabilities.",
+      "tags": ["Flutter", "Offline-First", "Scanner"],
+      "link": "https://github.com/Shovon021/medicine-saver-bd"
+    },
+    {
+      "id": "kuchu-puchu",
+      "name": "KUCHU PUCHU Games",
+      "description": "Architected a high-framerate unified gaming engine combining 15 modular arcade games into a singular, state-heavy Flutter application.",
+      "tags": ["Flutter", "Game Engine", "Performance"],
+      "link": "https://github.com/Shovon021/KUCHU-PUCHU-Mobile-Games-Flutter-MultiGame-Collection-"
+    },
+    {
+      "id": "get-salami",
+      "name": "Get Your Salami",
+      "description": "A masterclass in Flutter UI/UX involving complex custom painter animations, physics-based spinning wheels, and modern geometry.",
+      "tags": ["Flutter", "Physics", "Animations"],
+      "link": "https://github.com/Shovon021/Get-Your-Salami"
+    }
+  ],
+  "skills": [
+    "Flutter Core", "Dart Architecture", "Python Backend", "React Native", "Javascript / ES6", "Kotlin", "Firebase / NoSQL", "MySQL Optimization"
+  ],
+  "timeline": [
+    {
+      "year": "2024",
+      "event": "Defended askEwu Capstone Backend & Voice Assistant Architecture."
+    },
+    {
+      "year": "2023",
+      "event": "Officially awarded Best UTA in East West University."
+    },
+    {
+      "year": "2022",
+      "event": "Commenced professional-grade Flutter development and mobile architecture design."
+    }
+  ]
+}
